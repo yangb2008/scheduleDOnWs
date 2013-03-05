@@ -9,5 +9,6 @@ public class YangguigenHello {
 		// TODO 自动生成的方法存根
 		System.out.println("yanb2008 update on yangguigen's class");
 	}
+	public void yangb2008(){}
 
 }
